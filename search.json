@@ -7,15 +7,6 @@
       "tags"     : "typography",
       "url"      : "/Gesko/2019/08/31/difference-between-font-formats",
       "date"     : "2019-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Staticman comments on a Jekyll site",
-      "description" : "Generating comments on static sites with Staticman",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2019/07/23/staticman-comments-on-a-jekyll-site",
-      "date"     : "2019-07-23 00:00:00 +0200"
     } 
   
 ]
