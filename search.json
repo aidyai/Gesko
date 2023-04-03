@@ -106,15 +106,6 @@
       "tags"     : "coding, jekyll",
       "url"      : "/Gesko/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
       "date"     : "2018-02-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Image caption in Jekyll",
-      "description" : "Using an image caption in Jekyll",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2018/02/03/image-captions-in-jekyll",
-      "date"     : "2018-02-03 00:00:00 +0100"
     } 
   
 ]
