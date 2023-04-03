@@ -133,15 +133,6 @@
       "tags"     : "jekyll, coding",
       "url"      : "/Gesko/2017/11/15/custom-404-page-for-jekyll-on-github-pages",
       "date"     : "2017-11-15 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Redirect Jekyll URLs",
-      "description" : "How to Redirect Pages in Jekyll",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/Gesko/2017/11/10/redirect-jekyll-urls",
-      "date"     : "2017-11-10 00:00:00 +0100"
     } 
   
 ]
