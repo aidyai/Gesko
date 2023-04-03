@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Gesko</title>
- <link href="https://p0wex.github.io/Gesko/atom.xml" rel="self"/>
- <link href="https://p0wex.github.io/Gesko/"/>
- <updated>2023-04-03T17:06:55+02:00</updated>
- <id>https://p0wex.github.io</id>
+ <link href="https://aidyai.github.io//Gesko/atom.xml" rel="self"/>
+ <link href="https://aidyai.github.io//Gesko/"/>
+ <updated>2023-04-03T17:18:27+02:00</updated>
+ <id>https://aidyai.github.io/</id>
  <author>
    <name>gesko</name>
    <email>your-email@email.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Understanding diffusion models</title>
-   <link href="https://p0wex.github.io/Gesko/2022/12/20/understanding-diffusion-models"/>
+   <link href="https://aidyai.github.io//Gesko/2022/12/20/understanding-diffusion-models"/>
    <updated>2022-12-20T00:00:00+01:00</updated>
-   <id>https://p0wex.github.io/2022/12/20/UNDERSTANDING DIFFUSION MODELS</id>
+   <id>https://aidyai.github.io//2022/12/20/UNDERSTANDING DIFFUSION MODELS</id>
    <content type="html">&lt;h1 id=&quot;understanding-diffusion-models&quot;&gt;UNDERSTANDING DIFFUSION MODELS&lt;/h1&gt;
 
 &lt;ol&gt;
@@ -595,9 +595,9 @@ training_loop(ship_model, ship_dataloader, optimizer, num_epochs, num_timesteps,
  
  <entry>
    <title>Difference between font formats</title>
-   <link href="https://p0wex.github.io/Gesko/2019/08/31/difference-between-font-formats"/>
+   <link href="https://aidyai.github.io//Gesko/2019/08/31/difference-between-font-formats"/>
    <updated>2019-08-31T00:00:00+02:00</updated>
-   <id>https://p0wex.github.io/2019/08/31/difference-between-font-formats</id>
+   <id>https://aidyai.github.io//2019/08/31/difference-between-font-formats</id>
    <content type="html">&lt;h1 id=&quot;h1&quot;&gt;h1&lt;/h1&gt;
 
 &lt;h2 id=&quot;h2&quot;&gt;h2&lt;/h2&gt;
