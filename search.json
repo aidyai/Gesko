@@ -151,6 +151,15 @@
       "tags"     : "quotes, jekyll",
       "url"      : "/Gesko/2017/02/05/quotes-test",
       "date"     : "2017-02-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Creating navigation menu in Jekyll",
+      "description" : "Using data folder to build Jekyll navigation",
+      "category" : "",
+      "tags"     : "coding, jekyll",
+      "url"      : "/Gesko/2017/01/03/creating-navigation-menu-in-jekyll",
+      "date"     : "2017-01-03 00:00:00 +0100"
     } 
   
 ]
