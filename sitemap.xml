@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://p0wex.github.io/Gesko/2018/09/11/how-to-add-an-rss-feed-to-a-jekyll-blog</loc>
-<lastmod>2018-09-11T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>https://p0wex.github.io/Gesko/2018/09/20/jekyll-reading-time-without-plugins</loc>
 <lastmod>2018-09-20T00:00:00+02:00</lastmod>
 </url>
